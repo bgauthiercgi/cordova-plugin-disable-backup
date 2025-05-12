@@ -1,0 +1,12 @@
+{
+  "name": "cordova-plugin-disable-backup",
+  "version": "1.0.0",
+  "description": "Cordova plugin to set android:allowBackup=false in AndroidManifest.xml",
+  "cordova": {
+    "id": "cordova-plugin-disable-backup",
+    "platforms": ["android"]
+  },
+  "keywords": ["cordova", "android", "security", "backup"],
+  "author": "Your Name",
+  "license": "MIT"
+}
